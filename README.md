@@ -74,11 +74,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Milestones
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Privates-Bots&theme=darkhub&no-bg=true&margin-w=6&margin-h=6&column=6)](https://github.com/Privates-Bots)
+![Commits](https://img.shields.io/badge/Total%20Contributions-790%2B-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/On%20GitHub%20Since-Oct%202024-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+
+> 🏅 **YOLO** achiever &nbsp;|&nbsp; 🤠 **Starstruck** achiever
 
 </div>
 
