@@ -68,26 +68,19 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Privates-Bots&theme=radical&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Privates-Bots&theme=radical&no-bg=false&margin-w=4)](https://github.com/Privates-Bots)
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Privates-Bots&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" width="48%" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Privates-Bots&theme=swift&hide_border=false" width="48%" alt="GitHub Streak" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Privates-Bots&theme=swift&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/Privates-Bots)  
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Privates-Bots&theme=swift&hide_border=false)](https://github.com/Privates-Bots)
 
 ---
 
 ## 🎮 Contribution Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Privates-Bots/Privates-Bots/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
+![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/Privates-Bots/Privates-Bots/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### ✍️ Thought of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
