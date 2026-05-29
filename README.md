@@ -1,18 +1,20 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there,%20I'm%20Swastik%20👋&fontSize=40&animation=fadeIn&theme=radical" width="100%" />
-  <br><br>
+  <br>
   <img src="https://komarev.com/ghvc/?username=Privates-Bots&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
+
+---
 
 # 💫 About Me
 
 🚀 **Welcome to my GitHub space!** I am a passionate developer focusing on building automation tools and full-stack web applications.
 
-- 🔭 **Current Focus:** Crafting advanced Telegram Bots in **Python** & **JavaScript**.
-- 🌐 **Web Dev:** Designing websites using **HTML, CSS, JS** integrated with robust **PHP** backends.
-- 🎥 **Content Creator:** Managing a YouTube Channel dedicated to **AI, Automation, and Coding**.
-- 🌱 **Learning Path:** Exploring new programming frameworks and modern DevOps tools to optimize workflows.
-- 💬 **Let's Talk About:** Automation scripts, bot architecture, tech stacks, or YouTube growth.
+* 🔭 **Current Focus:** Crafting advanced Telegram Bots in **Python** & **JavaScript**.
+* 🌐 **Web Dev:** Designing websites using **HTML, CSS, JS** integrated with robust **PHP** backends.
+* 🎥 **Content Creator:** Managing a YouTube Channel dedicated to **AI, Automation, and Coding**.
+* 🌱 **Learning Path:** Exploring new programming frameworks and modern DevOps tools to optimize workflows.
+* 💬 **Let's Talk About:** Automation scripts, bot architecture, tech stacks, or YouTube growth.
 
 ⚡ *Fun Fact: I absolutely love writing event-driven JS/Python scripts to make Telegram chat bots super smart!*
 
