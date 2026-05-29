@@ -8,6 +8,10 @@ on:
     branches:
     - main
 
+# YAHAN PERMISSION ADD KI HAI TAAKI 403 ERROR NA AAYE
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -29,3 +33,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
